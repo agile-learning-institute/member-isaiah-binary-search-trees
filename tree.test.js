@@ -1,4 +1,4 @@
-const { Tree, prettyPrint } = require('../tree');
+import { Tree } from '../tree';
 
 describe('Binary Search Tree', () => {
   let tree;
