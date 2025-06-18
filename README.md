@@ -18,10 +18,6 @@ Tree visualizer: prettyPrint
 
 Unit tests with Jest
 
-Installation
-
-npm install balanced-bst
-
 Usage
 
 const { Tree, prettyPrint } = require('balanced-bst');
