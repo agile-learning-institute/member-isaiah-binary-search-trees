@@ -1,4 +1,4 @@
-import { Tree } from '../tree';
+import { Tree } from '../member-isaiah-binary-search-trees/bst.js';
 
 describe('Binary Search Tree', () => {
   let tree;

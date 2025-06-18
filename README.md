@@ -12,13 +12,10 @@ This project is an implementation of a **Balanced Binary Search Tree (BST)** in 
 - Tree visualizer: `prettyPrint`
 - Unit tests with Jest
 
-## Installation
-
-
 ## Usage
 
 ```js
-const { Tree, prettyPrint } = require('balanced-bst');
+const { Tree, prettyPrint } = require('member-isaiah-binary-search-trees');
 
 const tree = new Tree([1, 7, 4, 23, 8, 9]);
 console.log('Is balanced?', tree.isBalanced());
